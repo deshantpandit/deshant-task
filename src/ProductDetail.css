@@ -1,0 +1,11 @@
+.product-detail{
+    margin: 40px;
+}
+
+.product-detail > img {
+    height: 350px;
+}
+.product-detail > p {
+    font-size: 15px;
+}
+
