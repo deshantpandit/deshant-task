@@ -7,7 +7,6 @@ function Cart({ counterValue }) {
     <div>
       <ShoppingCartIcon />
       {counterValue}
-      <>HelloWorld</>
     </div>
   );
 }
