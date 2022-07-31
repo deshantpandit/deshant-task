@@ -19,6 +19,7 @@ function App() {
         <Route exact path="/product-details/:id" element={<ProductDetail />} />
       </Routes>
     </div>
+
   );
 }
 

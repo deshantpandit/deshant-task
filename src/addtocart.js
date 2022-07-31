@@ -6,7 +6,7 @@ function Addtocart({ incrementCounter }) {
   return (
     <div className="add-to-cart">
       <button type="button" onClick={incrementCounter}>
-        Add to Cart
+        Add to Cart Button
       </button>
     </div>
   );
